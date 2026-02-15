@@ -1,6 +1,9 @@
-.receitas {
+.receita {
   background-color: #f1f1f1;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
   padding: 99px 83px;
+  gap: 105px;
 }
