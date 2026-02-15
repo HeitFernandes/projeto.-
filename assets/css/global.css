@@ -5,3 +5,5 @@
 @import url(./header/menu/menu__item.css);
 @import url(./header/menu/menu__link.css);
 @import url(./banner/banner.css);
+@import url(./banner/banner__imagem.css);
+@import url(./banner/banner__titulo.css);
