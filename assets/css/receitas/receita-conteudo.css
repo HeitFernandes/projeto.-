@@ -1,0 +1,8 @@
+.receita__conteudo {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin: 15px;
+}
