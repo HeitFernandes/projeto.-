@@ -1,10 +1,13 @@
 @import url(reset.css);
 @import url(./cabecalho.css);
-@import url(./header/cabecalho.css);
+@import url(./header/header.css);
 @import url(./header/menu/menu__lista.css);
 @import url(./header/menu/menu__item.css);
 @import url(./header/menu/menu__link.css);
 @import url(./banner/banner.css);
+@import url(./banner/banner__imagem.css);
+@import url(./banner/banner__titulo.css);
 @import url(./sobre/sobre.css);
 @import url(./sobre/sobre-titulo.css);
 @import url(./sobre/sobre-descricao.css);
+
