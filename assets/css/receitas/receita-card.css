@@ -1,5 +1,6 @@
-.receitas__card {
+.receita__card {
   width: 286px;
   height: 384px;
   background-color: #ffffff;
+  border-radius: 2px;
 }

@@ -1,7 +1,8 @@
 .sobre {
   display: flex;
   flex-direction: column;
-  text-align: center;
-  gap: 15px;
-  padding-top: 2.5rem;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  margin: 65px;
 }
