@@ -1,6 +1,17 @@
 .pessoas {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   padding-top: 2rem;
+  gap: 2.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .pessoas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 2rem;
+  }
 }
