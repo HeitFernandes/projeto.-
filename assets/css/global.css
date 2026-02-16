@@ -1,5 +1,6 @@
 @import url(reset.css);
 @import url(./header-section/header.css);
+@import url(./header-section/logo.css);
 @import url(./header-section/menu/menu-lista.css);
 @import url(./header-section/menu/menu-item.css);
 @import url(./header-section/menu/menu-link.css);
