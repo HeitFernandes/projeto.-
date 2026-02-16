@@ -9,8 +9,13 @@
 @import url(./sobre/sobre.css);
 @import url(./sobre/sobre-titulo.css);
 @import url(./sobre/sobre-descricao.css);
-@import url(./receitas/receitas.css);
-@import url(./receitas/receitas-card.css);
+@import url(./receitas/receita.css);
+@import url(./receitas/receita-card.css);
+@import url(./receitas/receita-imagem.css);
+@import url(./receitas/receita-conteudo.css);
+@import url(./receitas/receita-titulo.css);
+@import url(./receitas/receita-descricao.css);
+@import url(./receitas/receita-botao.css);
 @import url(./quem-somos-section/quem-somos/quem-somos.css);
 @import url(./quem-somos-section/quem-somos/quem-somos-conteudo.css);
 @import url(./quem-somos-section/quem-somos/quem-somos-titulo.css);
@@ -18,9 +23,6 @@
 @import url(./quem-somos-section/pessoas/pessoas.css);
 @import url(./quem-somos-section/pessoas/pessoa.css);
 @import url(./quem-somos-section/pessoas/pessoa-img.css);
-@import url(./quem-somos-section/pessoas/pessoa-img-roberta.css);
-@import url(./quem-somos-section/pessoas/pessoa-img-marcela.css);
-@import url(./quem-somos-section/pessoas/pessoa-img-andreia.css);
 @import url(./quem-somos-section/pessoas/pessoa-conteudo.css);
 @import url(./quem-somos-section/pessoas/pessoa-titulo.css);
 @import url(./quem-somos-section/pessoas/pessoa-descricao.css);

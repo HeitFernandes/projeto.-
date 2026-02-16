@@ -4,6 +4,6 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
-  padding: 99px 83px;
+  padding: 5rem 4rem;
   gap: 105px;
 }
