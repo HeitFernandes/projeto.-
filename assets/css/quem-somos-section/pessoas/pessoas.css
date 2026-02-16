@@ -10,6 +10,14 @@
 @media screen and (min-width: 768px) {
   .pessoas {
     display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 2rem;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .pessoas {
+    display: flex;
     flex-direction: row;
     justify-content: space-around;
     padding-top: 2rem;
