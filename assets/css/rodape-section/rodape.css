@@ -2,7 +2,13 @@
   margin-top: 2rem;
   background-color: #bfbfbf;
   color: #fdfdfd;
-  text-align: right;
+  text-align: center;
   padding: 1.5625rem 5rem;
   text-transform: lowercase;
+}
+
+@media screen and (min-width: 768px) {
+  .rodape {
+    text-align: right;
+  }
 }
